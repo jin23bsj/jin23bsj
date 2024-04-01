@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Introduction
+- Sophomore of Computer Science and Engineering, YeungNam Univ.
+  
+  
+## Career
+- 🌱 I’m currently learning Open source software.
+
+## Links
+- 📫E-mail - baes3304@gmail.com
+ 
+
+## Projects
+- Not yet.
