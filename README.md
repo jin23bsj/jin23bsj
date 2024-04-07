@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Introduction
-- Sophomore of Computer Science and Engineering, YeungNam Univ.
+- Sophomore of Computer Science and Engineering, Yeungnam Univ.
   
   
 ## Career
