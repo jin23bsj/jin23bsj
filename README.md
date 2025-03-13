@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Introduction
-- I am a sophomore of Computer Science Engineering.
+- I am a junior of Computer Science Engineering.
 
   
   
