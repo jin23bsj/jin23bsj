@@ -1,32 +1,66 @@
-### Hi there 👋
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+jin23bsj+%F0%9F%91%8B;Computer+Science+Senior;Learning+Open+Source+Software" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### 🙋‍♂️ Introduction
+- 🎓 I am a **senior in Computer Science Engineering**.
+- 🌱 Currently learning **Open Source Software**.
+
+### 🚀 Career
+- 🔭 I'm currently working on ...
+- 👯 I'm looking to collaborate on open source projects.
+- 🤔 I'm looking for help with ... (feel free to reach out!)
+
+### 📫 Contact
+<p align="left">
+  <a href="mailto:baes3304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,git,github,linux,vscode" alt="skills" />
+</p>
 
 <!--
-**jin23bsj/jin23bsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Pick the icons for the languages/tools you use from skillicons.dev and join them with commas.
+e.g. cpp,python,java,c,js,html,css,mysql,docker,aws,figma,notion
 -->
 
-## Introduction
-- I am a senior of Computer Science Engineering.
+---
 
-  
-  
-## Career
-- 🌱 I’m currently learning Open source software.
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jin23bsj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jin23bsj's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin23bsj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-## Links
-- 📫E-mail - baes3304@gmail.com
- 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jin23bsj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## Projects
-- .
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/jin23bsj/veil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin23bsj&repo=veil&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/jin23bsj/Haedal-PKHB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin23bsj&repo=Haedal-PKHB&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+- 🪞 **[veil](https://github.com/jin23bsj/veil)** — A target-aware video face swap pipeline that preserves selected identities and replaces non-target faces using face detection, tracking, and recognition
+- 🎯 **[Dream Achiever (Haedal-PKHB)](https://github.com/jin23bsj/Haedal-PKHB)** — A goal management & emotion tracking app built with Flutter + FastAPI + Gemini API (club ideathon project)
