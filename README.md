@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm jin23bsj👋
+# Hi there, I'm seojin bae.👋
 
 </div>
 
