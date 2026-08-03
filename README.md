@@ -38,10 +38,7 @@ e.g. cpp,python,java,c,js,html,css,mysql,docker,aws,figma,notion
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jin23bsj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jin23bsj's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin23bsj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jin23bsj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -51,14 +48,6 @@ e.g. cpp,python,java,c,js,html,css,mysql,docker,aws,figma,notion
 
 ### 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/jin23bsj/veil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin23bsj&repo=veil&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/jin23bsj/Haedal-PKHB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin23bsj&repo=Haedal-PKHB&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 - 🪞 **[veil](https://github.com/jin23bsj/veil)** — A target-aware video face swap pipeline that preserves selected identities and replaces non-target faces using face detection, tracking, and recognition
 - 🎯 **[Dream Achiever (Haedal-PKHB)](https://github.com/jin23bsj/Haedal-PKHB)** — A goal management & emotion tracking app built with Flutter + FastAPI + Gemini API (club ideathon project)
